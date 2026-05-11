@@ -28,4 +28,4 @@ This project predicts laptop prices using Machine Learning regression models.
 The best model achieved a high R² Score for laptop price prediction.
 
 ## Author
-The Max
+Mohamed Ahmed
